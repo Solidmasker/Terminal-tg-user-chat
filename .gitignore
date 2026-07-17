@@ -1,0 +1,18 @@
+# Игнорируем файлы сессий Telegram (Самое важное!)
+*.session
+*.session-journal
+
+# Игнорируем папки виртуального окружения Python
+venv/
+.venv/
+tg-userbot-venv/
+
+# Игнорируем временные файлы и кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Игнорируем локальные файлы конфигурации
+config.conf
+.env
