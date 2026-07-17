@@ -16,3 +16,6 @@ __pycache__/
 # Игнорируем локальные файлы конфигурации
 config.conf
 .env
+opentrack/
+install/
+opentrack-2.3/
